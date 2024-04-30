@@ -9,7 +9,7 @@
 
 <p align='center';>
 <b>
-<em>ICLR2024 Poster</em> &nbsp&nbsp&nbsp&nbsp <a href="https://arxiv.org/abs/2311.00187" target="_blank" style="text-decoration: none;">[arXiv]</a>
+<em>ICLR2024 Poster</em> &nbsp&nbsp&nbsp&nbsp <a href="https://arxiv.org/abs/2311.00187" target="_blank" style="text-decoration: none;">[Paper]</a> &nbsp&nbsp&nbsp&nbsp <a href="https://iclr.cc/virtual/2024/poster/18679" target="_blank" style="text-decoration: none;">[Poster]
 </b>
 </p>
 
